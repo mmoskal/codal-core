@@ -2,7 +2,7 @@
 #define DEVICE_KEYMAP_H
 
 #include <stdint.h>
-#include <cstddef>
+#include <stddef.h>
 
 #define KEYMAP_ALL_KEYS_UP_Val      1
 #define KEYMAP_ALL_KEYS_UP_POS      28
